@@ -8,7 +8,7 @@ class Main{
         StringBuilder res = new StringBuilder();
 
         // Appending elements of s in res
-        res.append(s);
+        res.append(s); 
   
         // reverse StringBuilder res
         res.reverse();
